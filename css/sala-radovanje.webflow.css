@@ -9205,6 +9205,7 @@ img {
   }
 
   .nav_mobile-menu-button {
+    z-index: 999;
     -webkit-text-stroke-color: #f7f7f7;
     flex-flow: column;
     margin-right: 20px;
@@ -9274,6 +9275,10 @@ img {
 
   .nav_container.is-island, .nav_container.is-dynamic-island {
     margin-top: var(--_sizes---gap--xxs-gap);
+  }
+
+  .nav_menu {
+    background-color: #000;
   }
 
   .nav_center {
