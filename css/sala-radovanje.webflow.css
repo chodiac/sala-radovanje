@@ -9278,7 +9278,7 @@ img {
   }
 
   .nav_menu {
-    background-color: #000;
+    background-color: #f7f7f7;
   }
 
   .nav_center {
@@ -9354,6 +9354,8 @@ img {
   }
 
   .section-2 {
+    background-image: url('../images/ab0a6fef-9fbc-4c64-a551-e17bd1c87fc4.png');
+    background-size: cover;
     min-height: 100vh;
     padding-top: 120px;
     padding-left: 20px;
@@ -9454,6 +9456,7 @@ img {
   .text-block-11 {
     margin-top: -20px;
     padding-bottom: 20px;
+    font-size: 13px;
   }
 
   .section-8 {
